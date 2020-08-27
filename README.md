@@ -2,7 +2,7 @@
 
 Used **SpeechSynthesis API** to create a timer that speaks to us.
 
-[Live Link!](https://wizardly-fermi-fc3272.netlify.app)
+[Live Link](https://wizardly-fermi-fc3272.netlify.app)
 
 ![Alt Text](https://github.com/venky4c/web-speech-timer/blob/master/dist/src/WebSpeech.gif)
 
